@@ -1,4 +1,6 @@
 # JavaScript
+[H5](./h5.md)
+
 ## 原型
 JavaScript 是动态的，并且本身不提供一个 class 实现。（在 ES2015/ES6 中引入了 class 关键字，但那只是语法糖，JavaScript 仍然是基于原型的）。
 
